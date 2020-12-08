@@ -1,5 +1,5 @@
 import Landing from "./pages/Landing";
-import { GlobalStyles } from "./pages/Landing/styles";
+import { GlobalStyles } from "./styles/GlobalStyles";
 
 function App() {
   return (
